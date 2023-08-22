@@ -1,0 +1,28 @@
+body {
+    background: blue;
+    text-align: center;
+    color: midnightblue;
+}
+
+h1 {
+    font-family: sans-serif;
+    font-size: 72px;
+    font-weight: 900;
+    font-style: italic;
+}
+
+h3 {
+    background-color: indigo;
+    color: #ffffff;
+    text-decoration: underline;
+    line-height: 32px;
+    text-transform: uppercase;
+}
+
+img {
+    width: 250px;
+}
+
+h2 {
+    border: 2px solid #000000;
+}
