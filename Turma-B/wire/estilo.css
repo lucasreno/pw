@@ -1,0 +1,42 @@
+header {
+    background: #dd3ff2;
+    min-height: 200px;
+}
+
+nav {
+    background: #ff01c8;
+    min-height: 200px;
+}
+
+div {
+    display: flex;
+}
+
+main {
+    width: 75%;
+    background: #ffff88;
+    min-height: 600px;
+}
+
+section {
+    background: #aaa;
+    min-height: 250px;
+    margin: 25px;
+}
+
+article {
+    background: #9aff5f;
+    min-height: 250px;
+    margin: 25px;
+}
+
+aside {
+    width: 25%;
+    background: #ff8c88;
+    min-height: 600px;
+}
+
+footer {
+    background: rgb(119, 228, 255);
+    min-height: 200px;
+}
