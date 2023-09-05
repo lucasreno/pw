@@ -5,7 +5,9 @@
 }
 
 body {
-    background-color: #000;
+    background-image: url(imagens/bg.webp);
+    background-color: rgba(3, 42, 216, 0.877);
+    background-blend-mode: screen;
     color: #fff;
     font-size: 18px;
     font-family: sans-serif;
